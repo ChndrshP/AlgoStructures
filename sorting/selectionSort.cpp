@@ -13,6 +13,7 @@ void selectionSort(vector<int> arr){
         arr[minIndex] = arr[i];
         arr[i] = temp;
     }
+    
     cout << "Sorted array: ";
     for(int i = 0; i < arr.size(); i++){
         cout << arr[i] << " ";
