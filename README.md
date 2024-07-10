@@ -1,4 +1,4 @@
-#CodeVault
+# CodeVault
 
 ## Topics to be covered
    ### Language : C++
@@ -24,4 +24,4 @@
     - Backtracking 
 
 ## Ongoing  
-    - Sorting
+- Sorting
